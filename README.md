@@ -23,8 +23,8 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-seriki-9263a2144/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349064882112)
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@kamalseriki49)
-[![zindi](https://drive.google.com/file/d/1Lo-eMqdnU2bMyCtAFzSK9uFEcyeaKCZq/view?usp=share_link)](https://zindi.africa/users/Sayrikey1)
-[![kaggle](https://drive.google.com/file/d/1K6JfiJ9SyjBVhbd4rM82eLecp-UoITq1/view?usp=sharing)](https://www.kaggle.com/kamalseriki)
+[![zindi](https://img.shields.io/badge/zindi-fff?style=for-the-badge&logo=zindi&logoColor=blue)](https://zindi.africa/users/Sayrikey1)
+[![kaggle](https://img.shields.io/badge/kaggle-0A66C2?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kamalseriki)
 
 
 ### 🛠 Tools and Frameworks used
