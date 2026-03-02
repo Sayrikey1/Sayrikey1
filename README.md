@@ -74,13 +74,6 @@ Name | Badges
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sayrikey1&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=8" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-
 ## ❤ Community Engagement
 - Core Member at **Machine Learning Lagos**  
 - Contributor at **Data Science Nigeria**  
@@ -112,22 +105,6 @@ Name | Badges
 <p align="center">
   <a href="https://github.com/Sayrikey1/github-readme-activity-graph"><img alt="Kamal Seriki's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sayrikey1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area=true&area_color=5BCDEC" /></a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-
-## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayrikey1/Sayrikey1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sayrikey1/Sayrikey1/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sayrikey1/Sayrikey1/output/github-snake.svg" width="100%"/>
-</picture>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-
-## ⏱ Weekly Coding Stats
-<!--START_SECTION:waka-->
-🔧 **Setup Required:** Install the [WakaTime VS Code extension](https://wakatime.com/vs-code), then add your `WAKATIME_API_KEY` as a GitHub secret to enable automatic stats.
-<!--END_SECTION:waka-->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
