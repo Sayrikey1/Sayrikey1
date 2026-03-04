@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The more knowledge you have, the greater will be your fear of Allah."*
+> *"Be truthful, for truthfulness leads to righteousness, and righteousness leads to Paradise."*
 > 
 > — **Abu Bakr As-Siddiq (RA)**
 <!--QUOTE:END-->
