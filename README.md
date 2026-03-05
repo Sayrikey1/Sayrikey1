@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Be truthful, for truthfulness leads to righteousness, and righteousness leads to Paradise."*
+> *"None of you truly believes until he loves for his brother what he loves for himself."*
 > 
-> — **Abu Bakr As-Siddiq (RA)**
+> — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
