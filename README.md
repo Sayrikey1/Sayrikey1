@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"A person's intellect becomes apparent from his speech, and his merit is known through his actions."*
+> *"The battlefield is a scene of constant chaos. The winner will be the one who controls that chaos."*
 > 
-> — **Ali ibn Abi Talib (RA)**
+> — **Napoleon Bonaparte**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
