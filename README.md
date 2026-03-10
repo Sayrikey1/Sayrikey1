@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Every act of goodness is charity."*
+> *"The best of people are those who are most beneficial to people."*
 > 
 > — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
