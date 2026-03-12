@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"There is no wealth like knowledge, and no poverty like ignorance."*
+> *"Fortune, which has a great deal of power in other matters but especially in war, can bring about great changes in a situation through very slight forces."*
 > 
-> — **Ali ibn Abi Talib (RA)**
+> — **Julius Caesar**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
