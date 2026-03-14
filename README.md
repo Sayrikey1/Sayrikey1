@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"It is not these well-fed long-haired men that I fear, but the pale and the hungry-looking."*
+> *"No one is so brave that he is not disturbed by something unexpected."*
 > 
 > — **Julius Caesar**
 <!--QUOTE:END-->
