@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The only way to do great work is to know your own genius and apply it relentlessly."*
+> *"He who fears being conquered is sure of defeat."*
 > 
 > — **Napoleon Bonaparte**
 <!--QUOTE:END-->
