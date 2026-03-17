@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"He who fears being conquered is sure of defeat."*
+> *"The world suffers a lot. Not because of the violence of bad people, but because of the silence of good people."*
 > 
 > — **Napoleon Bonaparte**
 <!--QUOTE:END-->
