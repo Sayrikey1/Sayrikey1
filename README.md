@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Hold yourself accountable before you are held accountable."*
+> *"Without knowledge, action is useless and knowledge without action is futile."*
 > 
-> — **Umar ibn Al-Khattab (RA)**
+> — **Abu Bakr As-Siddiq (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
