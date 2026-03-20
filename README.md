@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Without knowledge, action is useless and knowledge without action is futile."*
+> *"Be truthful, for truthfulness leads to righteousness, and righteousness leads to Paradise."*
 > 
 > — **Abu Bakr As-Siddiq (RA)**
 <!--QUOTE:END-->
