@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The most beloved of people to Allah are those who are most beneficial to people."*
+> *"Patience is the healthiest ingredient of our life."*
 > 
 > — **Umar ibn Al-Khattab (RA)**
 <!--QUOTE:END-->
