@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Seek knowledge from the cradle to the grave."*
+> *"The most beloved of people to Allah are those who are most beneficial to people."*
 > 
-> — **Prophet Muhammad (PBUH)**
+> — **Umar ibn Al-Khattab (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
