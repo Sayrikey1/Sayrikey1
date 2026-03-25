@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The most beloved of people to Allah are those who are most beneficial to people."*
+> *"The tongue is like a lion. If you let it loose, it will wound someone."*
 > 
-> — **Umar ibn Al-Khattab (RA)**
+> — **Ali ibn Abi Talib (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
