@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Two things define you: your patience when you have nothing, and your attitude when you have everything."*
+> *"The best jihad is to speak a word of truth to an oppressive ruler."*
 > 
-> — **Ali ibn Abi Talib (RA)**
+> — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
