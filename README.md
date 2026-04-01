@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The best jihad is to speak a word of truth to an oppressive ruler."*
+> *"It is not these well-fed long-haired men that I fear, but the pale and the hungry-looking."*
 > 
-> — **Prophet Muhammad (PBUH)**
+> — **Julius Caesar**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
