@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"It is not these well-fed long-haired men that I fear, but the pale and the hungry-looking."*
+> *"It is easier to find men who will volunteer to die, than to find those who are willing to endure pain with patience."*
 > 
 > — **Julius Caesar**
 <!--QUOTE:END-->
