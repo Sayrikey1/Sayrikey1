@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Make things easy and do not make them difficult. Give good news and do not drive people away."*
+> *"The tongue is like a lion. If you let it loose, it will wound someone."*
 > 
-> — **Prophet Muhammad (PBUH)**
+> — **Ali ibn Abi Talib (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
