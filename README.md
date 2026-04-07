@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Without knowledge, action is useless and knowledge without action is futile."*
+> *"Impossible is a word to be found only in the dictionary of fools."*
 > 
-> — **Abu Bakr As-Siddiq (RA)**
+> — **Napoleon Bonaparte**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
