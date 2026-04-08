@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Impossible is a word to be found only in the dictionary of fools."*
+> *"Ability is nothing without opportunity."*
 > 
 > — **Napoleon Bonaparte**
 <!--QUOTE:END-->
