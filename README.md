@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The only way to do great work is to know your own genius and apply it relentlessly."*
+> *"It is easier to find men who will volunteer to die, than to find those who are willing to endure pain with patience."*
 > 
-> — **Napoleon Bonaparte**
+> — **Julius Caesar**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
