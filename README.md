@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The best of people are those who are most beneficial to people."*
+> *"Do not waste water even if you were at a running stream."*
 > 
 > — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
