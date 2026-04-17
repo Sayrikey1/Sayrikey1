@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"No one is so brave that he is not disturbed by something unexpected."*
+> *"Preach not to others what they should eat, but eat as becomes you and be silent."*
 > 
-> — **Julius Caesar**
+> — **Abu Bakr As-Siddiq (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
