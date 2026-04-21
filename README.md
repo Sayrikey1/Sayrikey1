@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"A person's intellect becomes apparent from his speech, and his merit is known through his actions."*
+> *"Knowledge is only achieved through learning and patience is only achieved through trying to be patient."*
 > 
 > — **Ali ibn Abi Talib (RA)**
 <!--QUOTE:END-->
