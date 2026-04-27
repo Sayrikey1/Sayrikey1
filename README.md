@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The best jihad is to speak a word of truth to an oppressive ruler."*
+> *"Do not look down upon any Muslim, for even the most inferior believer is great in the eyes of God."*
 > 
-> — **Prophet Muhammad (PBUH)**
+> — **Abu Bakr As-Siddiq (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
