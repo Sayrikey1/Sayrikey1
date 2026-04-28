@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Do not look down upon any Muslim, for even the most inferior believer is great in the eyes of God."*
+> *"The strong person is not the one who can wrestle someone else down. The strong person is the one who can control himself when he is angry."*
 > 
-> — **Abu Bakr As-Siddiq (RA)**
+> — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
