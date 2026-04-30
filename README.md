@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The only way to do great work is to know your own genius and apply it relentlessly."*
+> *"If an ignorant person is attracted by the things of the world, that is bad. But if a learned person is attracted by the things of the world, that is worse."*
 > 
-> — **Napoleon Bonaparte**
+> — **Abu Bakr As-Siddiq (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
