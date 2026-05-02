@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Courage is not having the strength to go on; it is going on when you don't have the strength."*
+> *"Take time to deliberate, but when the time for action has arrived, stop thinking and go in."*
 > 
 > — **Napoleon Bonaparte**
 <!--QUOTE:END-->
