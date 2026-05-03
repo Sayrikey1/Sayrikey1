@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Take time to deliberate, but when the time for action has arrived, stop thinking and go in."*
+> *"Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principles which direct them."*
 > 
 > — **Napoleon Bonaparte**
 <!--QUOTE:END-->
