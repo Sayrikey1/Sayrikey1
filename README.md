@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Do not follow vain desires, for verily he who prospers is preserved from lust, greed and anger."*
+> *"The only way to do great work is to know your own genius and apply it relentlessly."*
 > 
-> — **Abu Bakr As-Siddiq (RA)**
+> — **Napoleon Bonaparte**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
