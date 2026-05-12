@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Patience is the healthiest ingredient of our life."*
+> *"Do not deceive or be faithless even with your enemy."*
 > 
 > — **Umar ibn Al-Khattab (RA)**
 <!--QUOTE:END-->
