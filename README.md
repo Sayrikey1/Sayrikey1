@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"It is not these well-fed long-haired men that I fear, but the pale and the hungry-looking."*
+> *"I love the name of honor, more than I fear death."*
 > 
 > — **Julius Caesar**
 <!--QUOTE:END-->
