@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"A person's intellect becomes apparent from his speech, and his merit is known through his actions."*
+> *"Do not let your difficulties fill you with anxiety; after all, it is only in the darkest nights that stars shine more brightly."*
 > 
 > — **Ali ibn Abi Talib (RA)**
 <!--QUOTE:END-->
