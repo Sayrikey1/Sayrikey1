@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Do not let your difficulties fill you with anxiety; after all, it is only in the darkest nights that stars shine more brightly."*
+> *"Do not look down upon any Muslim, for even the most inferior believer is great in the eyes of God."*
 > 
-> — **Ali ibn Abi Talib (RA)**
+> — **Abu Bakr As-Siddiq (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
