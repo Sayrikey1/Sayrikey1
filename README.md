@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Do not look down upon any Muslim, for even the most inferior believer is great in the eyes of God."*
+> *"If an ignorant person is attracted by the things of the world, that is bad. But if a learned person is attracted by the things of the world, that is worse."*
 > 
 > — **Abu Bakr As-Siddiq (RA)**
 <!--QUOTE:END-->
