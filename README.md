@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Be truthful, for truthfulness leads to righteousness, and righteousness leads to Paradise."*
+> *"Nothing is more difficult, and therefore more precious, than to be able to decide."*
 > 
-> — **Abu Bakr As-Siddiq (RA)**
+> — **Napoleon Bonaparte**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
