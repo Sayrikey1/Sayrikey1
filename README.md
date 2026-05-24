@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Nothing is more difficult, and therefore more precious, than to be able to decide."*
+> *"The greatest truth is honesty, and the greatest falsehood is dishonesty."*
 > 
-> — **Napoleon Bonaparte**
+> — **Abu Bakr As-Siddiq (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
