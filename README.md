@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The greatest truth is honesty, and the greatest falsehood is dishonesty."*
+> *"Be in this world as if you were a stranger or a traveler along a path."*
 > 
-> — **Abu Bakr As-Siddiq (RA)**
+> — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
