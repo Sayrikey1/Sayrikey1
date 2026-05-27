@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The best among you are those who have the best manners and character."*
+> *"The greatest truth is honesty, and the greatest falsehood is dishonesty."*
 > 
-> — **Prophet Muhammad (PBUH)**
+> — **Abu Bakr As-Siddiq (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
