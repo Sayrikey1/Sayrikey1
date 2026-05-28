@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The greatest truth is honesty, and the greatest falsehood is dishonesty."*
+> *"Experience is the teacher of all things."*
 > 
-> — **Abu Bakr As-Siddiq (RA)**
+> — **Julius Caesar**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
