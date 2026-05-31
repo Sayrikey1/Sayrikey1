@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Fortune, which has a great deal of power in other matters but especially in war, can bring about great changes in a situation through very slight forces."*
+> *"Nothing is more difficult, and therefore more precious, than to be able to decide."*
 > 
-> — **Julius Caesar**
+> — **Napoleon Bonaparte**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
