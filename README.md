@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The strong person is not the one who can wrestle someone else down. The strong person is the one who can control himself when he is angry."*
+> *"The best of people are those who are most beneficial to people."*
 > 
 > — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
