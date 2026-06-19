@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Every act of goodness is charity."*
+> *"Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principles which direct them."*
 > 
-> — **Prophet Muhammad (PBUH)**
+> — **Napoleon Bonaparte**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
