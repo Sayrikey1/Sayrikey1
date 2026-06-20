@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principles which direct them."*
+> *"What we wish, we readily believe, and what we ourselves think, we imagine others think also."*
 > 
-> — **Napoleon Bonaparte**
+> — **Julius Caesar**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
