@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"What we wish, we readily believe, and what we ourselves think, we imagine others think also."*
+> *"Do not let your difficulties fill you with anxiety; after all, it is only in the darkest nights that stars shine more brightly."*
 > 
-> — **Julius Caesar**
+> — **Ali ibn Abi Talib (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
