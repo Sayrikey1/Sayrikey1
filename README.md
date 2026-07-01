@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Kindness is a mark of faith, and whoever has not kindness has not faith."*
+> *"A leader is a dealer in hope."*
 > 
-> — **Prophet Muhammad (PBUH)**
+> — **Napoleon Bonaparte**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
