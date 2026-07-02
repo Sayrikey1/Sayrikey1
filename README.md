@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"A leader is a dealer in hope."*
+> *"Patience is the healthiest ingredient of our life."*
 > 
-> — **Napoleon Bonaparte**
+> — **Umar ibn Al-Khattab (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
