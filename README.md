@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"By Allah, he does not believe! By Allah, he does not believe! By Allah, he does not believe! It was asked: Who, O Messenger of Allah? He said: The one whose neighbor does not feel safe from his evil."*
+> *"Seek knowledge from the cradle to the grave."*
 > 
 > — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
