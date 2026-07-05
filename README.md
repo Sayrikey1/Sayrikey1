@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Seek knowledge from the cradle to the grave."*
+> *"He who is not merciful to others, will not be treated mercifully."*
 > 
 > — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
