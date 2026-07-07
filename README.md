@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Without knowledge, action is useless and knowledge without action is futile."*
+> *"A person's intellect becomes apparent from his speech, and his merit is known through his actions."*
 > 
-> — **Abu Bakr As-Siddiq (RA)**
+> — **Ali ibn Abi Talib (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
