@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Do not deceive or be faithless even with your enemy."*
+> *"The tongue is like a lion. If you let it loose, it will wound someone."*
 > 
-> — **Umar ibn Al-Khattab (RA)**
+> — **Ali ibn Abi Talib (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
