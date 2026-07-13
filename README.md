@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Do not deceive or be faithless even with your enemy."*
+> *"It is not these well-fed long-haired men that I fear, but the pale and the hungry-looking."*
 > 
-> — **Umar ibn Al-Khattab (RA)**
+> — **Julius Caesar**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
