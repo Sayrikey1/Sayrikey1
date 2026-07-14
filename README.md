@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"It is not these well-fed long-haired men that I fear, but the pale and the hungry-looking."*
+> *"Fortune, which has a great deal of power in other matters but especially in war, can bring about great changes in a situation through very slight forces."*
 > 
 > — **Julius Caesar**
 <!--QUOTE:END-->
