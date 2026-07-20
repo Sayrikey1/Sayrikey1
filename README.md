@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"I came, I saw, I conquered."*
+> *"Men willingly believe what they wish."*
 > 
 > — **Julius Caesar**
 <!--QUOTE:END-->
