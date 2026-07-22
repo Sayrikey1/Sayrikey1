@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The greatest truth is honesty, and the greatest falsehood is dishonesty."*
+> *"Do not follow vain desires, for verily he who prospers is preserved from lust, greed and anger."*
 > 
 > — **Abu Bakr As-Siddiq (RA)**
 <!--QUOTE:END-->
