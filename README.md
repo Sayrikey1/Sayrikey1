@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Experience is the teacher of all things."*
+> *"Make things easy and do not make them difficult. Give good news and do not drive people away."*
 > 
-> — **Julius Caesar**
+> — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
