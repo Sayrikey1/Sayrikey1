@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Make things easy and do not make them difficult. Give good news and do not drive people away."*
+> *"A person's true wealth is the good he or she does in the world."*
 > 
 > — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
