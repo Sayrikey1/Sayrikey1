@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"A person's true wealth is the good he or she does in the world."*
+> *"Knowledge is only achieved through learning and patience is only achieved through trying to be patient."*
 > 
-> — **Prophet Muhammad (PBUH)**
+> — **Ali ibn Abi Talib (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
