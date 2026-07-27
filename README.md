@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Knowledge is only achieved through learning and patience is only achieved through trying to be patient."*
+> *"What we wish, we readily believe, and what we ourselves think, we imagine others think also."*
 > 
-> — **Ali ibn Abi Talib (RA)**
+> — **Julius Caesar**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
