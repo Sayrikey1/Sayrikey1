@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"What we wish, we readily believe, and what we ourselves think, we imagine others think also."*
+> *"Ability is nothing without opportunity."*
 > 
-> — **Julius Caesar**
+> — **Napoleon Bonaparte**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
