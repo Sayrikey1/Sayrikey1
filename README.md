@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Kindness is a mark of faith, and whoever has not kindness has not faith."*
+> *"Experience is the teacher of all things."*
 > 
-> — **Prophet Muhammad (PBUH)**
+> — **Julius Caesar**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
