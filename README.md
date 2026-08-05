@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Patience is the healthiest ingredient of our life."*
+> *"The die is cast."*
 > 
-> — **Umar ibn Al-Khattab (RA)**
+> — **Julius Caesar**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
