@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The die is cast."*
+> *"If you must break the law, do it to seize power: in all other cases observe it."*
 > 
 > — **Julius Caesar**
 <!--QUOTE:END-->
