@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"If you must break the law, do it to seize power: in all other cases observe it."*
+> *"Do not deceive or be faithless even with your enemy."*
 > 
-> — **Julius Caesar**
+> — **Umar ibn Al-Khattab (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
