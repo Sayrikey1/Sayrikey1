@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Do not deceive or be faithless even with your enemy."*
+> *"Knowledge is only achieved through learning and patience is only achieved through trying to be patient."*
 > 
-> — **Umar ibn Al-Khattab (RA)**
+> — **Ali ibn Abi Talib (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
