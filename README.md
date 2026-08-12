@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Make things easy and do not make them difficult. Give good news and do not drive people away."*
+> *"Kindness is a mark of faith, and whoever has not kindness has not faith."*
 > 
 > — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
