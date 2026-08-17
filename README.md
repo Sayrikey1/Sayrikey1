@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Ability is nothing without opportunity."*
+> *"A leader is a dealer in hope."*
 > 
 > — **Napoleon Bonaparte**
 <!--QUOTE:END-->
