@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"A leader is a dealer in hope."*
+> *"It is better to create than to learn! Creating is the essence of life."*
 > 
-> — **Napoleon Bonaparte**
+> — **Julius Caesar**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
