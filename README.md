@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"If an ignorant person is attracted by the things of the world, that is bad. But if a learned person is attracted by the things of the world, that is worse."*
+> *"Every act of goodness is charity."*
 > 
-> — **Abu Bakr As-Siddiq (RA)**
+> — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
