@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Every act of goodness is charity."*
+> *"He who is not merciful to others, will not be treated mercifully."*
 > 
 > — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
