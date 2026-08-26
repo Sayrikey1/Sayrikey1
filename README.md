@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Courage is not having the strength to go on; it is going on when you don't have the strength."*
+> *"Nothing is more difficult, and therefore more precious, than to be able to decide."*
 > 
 > — **Napoleon Bonaparte**
 <!--QUOTE:END-->
