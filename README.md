@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Experience is the teacher of all things."*
+> *"In war, events of importance are the result of trivial causes."*
 > 
 > — **Julius Caesar**
 <!--QUOTE:END-->
