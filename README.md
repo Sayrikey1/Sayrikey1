@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"In war, events of importance are the result of trivial causes."*
+> *"Hold yourself accountable before you are held accountable."*
 > 
-> — **Julius Caesar**
+> — **Umar ibn Al-Khattab (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
