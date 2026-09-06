@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"By Allah, he does not believe! By Allah, he does not believe! By Allah, he does not believe! It was asked: Who, O Messenger of Allah? He said: The one whose neighbor does not feel safe from his evil."*
+> *"Ability is nothing without opportunity."*
 > 
-> — **Prophet Muhammad (PBUH)**
+> — **Napoleon Bonaparte**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
