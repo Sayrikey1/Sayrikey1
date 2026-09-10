@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The die is cast."*
+> *"I came, I saw, I conquered."*
 > 
 > — **Julius Caesar**
 <!--QUOTE:END-->
