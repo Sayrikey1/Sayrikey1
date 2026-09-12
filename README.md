@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"I came, I saw, I conquered."*
+> *"I love the name of honor, more than I fear death."*
 > 
 > — **Julius Caesar**
 <!--QUOTE:END-->
