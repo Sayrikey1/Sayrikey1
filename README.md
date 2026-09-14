@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The best among you are those who have the best manners and character."*
+> *"Every act of goodness is charity."*
 > 
 > — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
