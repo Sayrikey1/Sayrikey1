@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Do not look down upon any Muslim, for even the most inferior believer is great in the eyes of God."*
+> *"The more knowledge you have, the greater will be your fear of Allah."*
 > 
 > — **Abu Bakr As-Siddiq (RA)**
 <!--QUOTE:END-->
