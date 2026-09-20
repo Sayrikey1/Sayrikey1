@@ -110,9 +110,9 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Experience is the teacher of all things."*
+> *"A person's intellect becomes apparent from his speech, and his merit is known through his actions."*
 > 
-> — **Julius Caesar**
+> — **Ali ibn Abi Talib (RA)**
 <!--QUOTE:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
