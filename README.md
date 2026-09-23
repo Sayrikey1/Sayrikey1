@@ -110,7 +110,7 @@ Name | Badges
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"A person's true wealth is the good he or she does in the world."*
+> *"Do not waste water even if you were at a running stream."*
 > 
 > — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
