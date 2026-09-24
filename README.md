@@ -138,7 +138,7 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Do not waste water even if you were at a running stream."*
+> *"Patience is the key to relief."*
 > 
 > — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
