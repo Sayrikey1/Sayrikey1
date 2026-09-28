@@ -138,9 +138,9 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Hold yourself accountable before you are held accountable."*
+> *"Courage is not having the strength to go on; it is going on when you don't have the strength."*
 > 
-> — **Umar ibn Al-Khattab (RA)**
+> — **Napoleon Bonaparte**
 <!--QUOTE:END-->
 
 <a href="https://sayrikey.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></a>
