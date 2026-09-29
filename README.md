@@ -138,7 +138,7 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Courage is not having the strength to go on; it is going on when you don't have the strength."*
+> *"The world suffers a lot. Not because of the violence of bad people, but because of the silence of good people."*
 > 
 > — **Napoleon Bonaparte**
 <!--QUOTE:END-->
