@@ -138,9 +138,9 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The world suffers a lot. Not because of the violence of bad people, but because of the silence of good people."*
+> *"May God bless the man who says less and does more."*
 > 
-> — **Napoleon Bonaparte**
+> — **Umar ibn Al-Khattab (RA)**
 <!--QUOTE:END-->
 
 <a href="https://sayrikey.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></a>
