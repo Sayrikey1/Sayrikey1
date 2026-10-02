@@ -138,7 +138,7 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"It is easier to find men who will volunteer to die, than to find those who are willing to endure pain with patience."*
+> *"In war, events of importance are the result of trivial causes."*
 > 
 > — **Julius Caesar**
 <!--QUOTE:END-->
