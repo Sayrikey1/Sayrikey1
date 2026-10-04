@@ -138,9 +138,9 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Two things define you: your patience when you have nothing, and your attitude when you have everything."*
+> *"Victory belongs to the most persevering."*
 > 
-> — **Ali ibn Abi Talib (RA)**
+> — **Napoleon Bonaparte**
 <!--QUOTE:END-->
 
 <a href="https://sayrikey.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></a>
