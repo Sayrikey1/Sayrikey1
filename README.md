@@ -138,9 +138,9 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Nothing is more difficult, and therefore more precious, than to be able to decide."*
+> *"Good actions are a guard against the blows of adversity."*
 > 
-> — **Napoleon Bonaparte**
+> — **Abu Bakr As-Siddiq (RA)**
 <!--QUOTE:END-->
 
 <a href="https://sayrikey.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></a>
