@@ -138,9 +138,9 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"By Allah, he does not believe! By Allah, he does not believe! By Allah, he does not believe! It was asked: Who, O Messenger of Allah? He said: The one whose neighbor does not feel safe from his evil."*
+> *"No one is so brave that he is not disturbed by something unexpected."*
 > 
-> — **Prophet Muhammad (PBUH)**
+> — **Julius Caesar**
 <!--QUOTE:END-->
 
 <a href="https://sayrikey.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></a>
