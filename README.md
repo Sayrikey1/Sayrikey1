@@ -138,9 +138,9 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Patience is the healthiest ingredient of our life."*
+> *"The battlefield is a scene of constant chaos. The winner will be the one who controls that chaos."*
 > 
-> — **Umar ibn Al-Khattab (RA)**
+> — **Napoleon Bonaparte**
 <!--QUOTE:END-->
 
 <a href="https://sayrikey.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></a>
