@@ -138,9 +138,9 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"It is better to create than to learn! Creating is the essence of life."*
+> *"The best jihad is to speak a word of truth to an oppressive ruler."*
 > 
-> — **Julius Caesar**
+> — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
 
 <a href="https://sayrikey.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></a>
