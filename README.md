@@ -138,7 +138,7 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The best jihad is to speak a word of truth to an oppressive ruler."*
+> *"The best among you are those who have the best manners and character."*
 > 
 > — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
