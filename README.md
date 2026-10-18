@@ -138,7 +138,7 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"He who is not merciful to others, will not be treated mercifully."*
+> *"By Allah, he does not believe! By Allah, he does not believe! By Allah, he does not believe! It was asked: Who, O Messenger of Allah? He said: The one whose neighbor does not feel safe from his evil."*
 > 
 > — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
