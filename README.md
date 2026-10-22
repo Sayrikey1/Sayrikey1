@@ -138,7 +138,7 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"If you must break the law, do it to seize power: in all other cases observe it."*
+> *"It is better to create than to learn! Creating is the essence of life."*
 > 
 > — **Julius Caesar**
 <!--QUOTE:END-->
