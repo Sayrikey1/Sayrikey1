@@ -138,9 +138,9 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The greatest truth is honesty, and the greatest falsehood is dishonesty."*
+> *"He who fears being conquered is sure of defeat."*
 > 
-> — **Abu Bakr As-Siddiq (RA)**
+> — **Napoleon Bonaparte**
 <!--QUOTE:END-->
 
 <a href="https://sayrikey.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></a>
