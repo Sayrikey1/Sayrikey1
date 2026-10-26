@@ -138,9 +138,9 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Knowledge is only achieved through learning and patience is only achieved through trying to be patient."*
+> *"It is easier to find men who will volunteer to die, than to find those who are willing to endure pain with patience."*
 > 
-> — **Ali ibn Abi Talib (RA)**
+> — **Julius Caesar**
 <!--QUOTE:END-->
 
 <a href="https://sayrikey.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></a>
