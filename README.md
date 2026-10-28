@@ -138,9 +138,9 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"A person's true wealth is the good he or she does in the world."*
+> *"The world suffers a lot. Not because of the violence of bad people, but because of the silence of good people."*
 > 
-> — **Prophet Muhammad (PBUH)**
+> — **Napoleon Bonaparte**
 <!--QUOTE:END-->
 
 <a href="https://sayrikey.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></a>
