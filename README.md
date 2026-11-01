@@ -138,9 +138,9 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Knowledge is only achieved through learning and patience is only achieved through trying to be patient."*
+> *"Hold yourself accountable before you are held accountable."*
 > 
-> — **Ali ibn Abi Talib (RA)**
+> — **Umar ibn Al-Khattab (RA)**
 <!--QUOTE:END-->
 
 <a href="https://sayrikey.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></a>
