@@ -138,7 +138,7 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Patience is the key to relief."*
+> *"A person's true wealth is the good he or she does in the world."*
 > 
 > — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
