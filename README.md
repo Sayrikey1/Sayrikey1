@@ -138,7 +138,7 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"There is no wealth like knowledge, and no poverty like ignorance."*
+> *"The tongue is like a lion. If you let it loose, it will wound someone."*
 > 
 > — **Ali ibn Abi Talib (RA)**
 <!--QUOTE:END-->
