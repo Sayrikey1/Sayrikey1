@@ -138,9 +138,9 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"The die is cast."*
+> *"Be in this world as if you were a stranger or a traveler along a path."*
 > 
-> — **Julius Caesar**
+> — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
 
 <a href="https://sayrikey.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></a>
