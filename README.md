@@ -138,7 +138,7 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"Be in this world as if you were a stranger or a traveler along a path."*
+> *"The best among you are those who have the best manners and character."*
 > 
 > — **Prophet Muhammad (PBUH)**
 <!--QUOTE:END-->
