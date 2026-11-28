@@ -138,9 +138,9 @@ Three co-authored, peer-reviewed papers (2025) applying neural and ensemble meth
 
 ## 💬 Quote of the Day
 <!--QUOTE:START-->
-> *"In war, events of importance are the result of trivial causes."*
+> *"Do not follow vain desires, for verily he who prospers is preserved from lust, greed and anger."*
 > 
-> — **Julius Caesar**
+> — **Abu Bakr As-Siddiq (RA)**
 <!--QUOTE:END-->
 
 <a href="https://sayrikey.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></a>
